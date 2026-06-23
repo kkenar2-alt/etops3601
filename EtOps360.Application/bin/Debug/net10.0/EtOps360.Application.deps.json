@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "EtOps360.Application/1.0.0": {
+        "dependencies": {
+          "EtOps360.Contracts": "1.0.0",
+          "EtOps360.Domain": "1.0.0"
+        },
+        "runtime": {
+          "EtOps360.Application.dll": {}
+        }
+      },
+      "EtOps360.Contracts/1.0.0": {
+        "runtime": {
+          "EtOps360.Contracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "EtOps360.Domain/1.0.0": {
+        "runtime": {
+          "EtOps360.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EtOps360.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EtOps360.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EtOps360.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
