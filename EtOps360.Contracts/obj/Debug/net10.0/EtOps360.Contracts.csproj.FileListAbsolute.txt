@@ -1,0 +1,11 @@
+C:\Users\mentis\Documents\Codex\EtOps360\src\EtOps360.Contracts\bin\Debug\net10.0\EtOps360.Contracts.deps.json
+C:\Users\mentis\Documents\Codex\EtOps360\src\EtOps360.Contracts\bin\Debug\net10.0\EtOps360.Contracts.dll
+C:\Users\mentis\Documents\Codex\EtOps360\src\EtOps360.Contracts\bin\Debug\net10.0\EtOps360.Contracts.pdb
+C:\Users\mentis\Documents\Codex\EtOps360\src\EtOps360.Contracts\obj\Debug\net10.0\EtOps360.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mentis\Documents\Codex\EtOps360\src\EtOps360.Contracts\obj\Debug\net10.0\EtOps360.Contracts.AssemblyInfoInputs.cache
+C:\Users\mentis\Documents\Codex\EtOps360\src\EtOps360.Contracts\obj\Debug\net10.0\EtOps360.Contracts.AssemblyInfo.cs
+C:\Users\mentis\Documents\Codex\EtOps360\src\EtOps360.Contracts\obj\Debug\net10.0\EtOps360.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\mentis\Documents\Codex\EtOps360\src\EtOps360.Contracts\obj\Debug\net10.0\EtOps360.Contracts.dll
+C:\Users\mentis\Documents\Codex\EtOps360\src\EtOps360.Contracts\obj\Debug\net10.0\refint\EtOps360.Contracts.dll
+C:\Users\mentis\Documents\Codex\EtOps360\src\EtOps360.Contracts\obj\Debug\net10.0\EtOps360.Contracts.pdb
+C:\Users\mentis\Documents\Codex\EtOps360\src\EtOps360.Contracts\obj\Debug\net10.0\ref\EtOps360.Contracts.dll
