@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2xXNGcAAQnk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mentis\\Documents\\Codex\\EtOps360\\src\\EtOps360.Api\\EtOps360.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mentis\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "C:\\Users\\mentis\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
