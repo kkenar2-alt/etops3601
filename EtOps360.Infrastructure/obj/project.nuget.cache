@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9YLSzGhcO3c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mentis\\Documents\\Codex\\EtOps360\\src\\EtOps360.Infrastructure\\EtOps360.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mentis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.9\\microsoft.extensions.dependencyinjection.abstractions.10.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
